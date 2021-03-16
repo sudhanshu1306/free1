@@ -1,9 +1,11 @@
 body {
-  max-width: 100%;
-  height: auto;
-  background-image: url('bgimg.png');
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 100%;
+  width: 100%;
+background: url('bgimg.png') no-repeat  fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
 
 .overlay{
@@ -20,7 +22,7 @@ body {
 }
 .center-text{
   color: #FFFFFF;
-  margin-top:20%;
+  margin-top: 40vh;
 
 }
 .colour-text{
