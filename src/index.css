@@ -22,7 +22,7 @@ background-size: cover;
 }
 .center-text{
   color: #FFFFFF;
-  margin-top: 3vh;
+  /* margin-top: 40vh; */
 
 }
 .colour-text{
@@ -30,6 +30,10 @@ background-size: cover;
 }
 .linkBlue{
   color: #2172df;
+}
+.logo-image{
+  margin-top: 20vh;
+  
 }
 a {
   text-decoration: none; 
