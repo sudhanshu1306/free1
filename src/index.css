@@ -28,3 +28,9 @@ background-size: cover;
 .colour-text{
   color: #FFFFFF;
 }
+.linkBlue{
+  color: #2172df;
+}
+a {
+  text-decoration: none; 
+}
