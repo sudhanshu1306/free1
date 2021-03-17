@@ -31,11 +31,10 @@ background-size: cover;
 .linkBlue{
   color: #2172df;
 }
-/* .logo-image{
+.logo-image{
   margin-top: 20vh;
-   */
 }
-.wrapper
+/* .wrapper
 {
  width:500px;
  height:500px;
@@ -46,7 +45,7 @@ background-size: cover;
  top:50%;
  margin-left:-250px;
  margin-top:-250px;
-}
+} */
 a {
   text-decoration: none; 
 }
